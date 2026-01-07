@@ -10,7 +10,7 @@
 
 **Key Name:** ai1  
 **Service:** OpenAI GPT API  
-**Key Format:** `sk-proj-Z1z-Oh6mp27vnekAN...` (164 characters)  
+**Key Format:** `sk-proj-Z1z-Oh6...` (MASKED - 164 characters)  
 **Status:** ACTIVE & READY
 
 ---
@@ -39,7 +39,7 @@
 
 ```
 ✅ OpenAI API Key (ai1) - STORED & VERIFIED
-   Key: sk-proj-Z1z-Oh6mp27vnekAN...hP5twiMAQA
+   Key: sk-proj-Z1z-Oh6...hP5twiMAQA (MASKED)
    Length: 164 characters
    Status: READY FOR API CALLS
 ```
